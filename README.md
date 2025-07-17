@@ -13,5 +13,8 @@ The goal is to design and implement an object-oriented simulation in C++ that ha
 - User-defined actions via CLI
 
 ## 📁 Project Structure
-
-<pre> ``` Assignment1/ ├── include/ # Header files (.h) ├── src/ # C++ implementation files (.cpp) ├── makefile # Used to compile the project ├── bin/ # Output binary goes here (empty in submission) └── config.txt # Example configuration file (optional) ``` </pre>
+Assignment1/
+├── include/ # Header files (.h)
+├── src/ # C++ implementation files (.cpp)
+├── makefile # Used to compile the project
+├── bin/ # Output binary goes here (empty in submission)
