@@ -3,7 +3,7 @@
 This project was completed as part of the Systems Programming course (SPL251) at Ben-Gurion University – Fall 2024.  
 It implements a simulation system for planning and executing the reconstruction of war-damaged settlements in SPLand.
 
-## 🧠 Project Goal
+##  Project Goal
 
 The goal is to design and implement an object-oriented simulation in C++ that handles:
 - Settlements (villages, cities, metropolis)
@@ -12,7 +12,7 @@ The goal is to design and implement an object-oriented simulation in C++ that ha
 - Simulation steps and policy switching
 - User-defined actions via CLI
 
-## 📁 Project Structure
+##  Project Structure
 Assignment1/
 ├── include/ # Header files (.h)
 ├── src/ # C++ implementation files (.cpp)
